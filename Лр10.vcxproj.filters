@@ -28,7 +28,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="C:\Users\Admin\Desktop\gitignore">
+    <None Include="C:\Users\Admin\Desktop\.gitignore">
       <Filter>Исходные файлы</Filter>
     </None>
   </ItemGroup>
