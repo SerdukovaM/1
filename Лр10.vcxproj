@@ -151,7 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Hangar.cpp" />
     <ClCompile Include="Лр10.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Hangar.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
