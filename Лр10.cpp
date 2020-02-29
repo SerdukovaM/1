@@ -13,7 +13,7 @@ public:
 		return w * l;
 	}
 	void print() {
-		cout << "Wedth=" << w << "endl" << "Length=" << l << "endl" << "Area=" << S();
+		cout << "Wedth=" << w << endl << "Length=" << l << endl << "Area=" << S();
 	}
 };
 
